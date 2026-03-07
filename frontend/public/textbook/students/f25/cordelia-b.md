@@ -40,3 +40,190 @@ You may see my cat in the background; his name is Carmine and he is a sweet but 
   />
 
 </div>
+
+# Question 1 Video
+### Randomly generate a 2-digit decimal number and convert it to binary.
+
+{{YouTube:https://www.youtube.com/watch?v=TUc1eeBQBpU}}
+
+## Question 1 Diagram
+
+<div style="text-align:center; margin-top:20px;">
+
+  <img
+    src="/textbook/students/w26/cordelia-b/q1-diagram.png"
+    style="max-width:1000px; width: 100%; height:auto; margin-bottom:1em;"
+    alt="Question 1 Diagram"
+  />
+
+</div>
+
+# Question 2 Video
+### How might a video be represented numerically?
+
+{{YouTube:https://youtu.be/VVS0xKAD6xo}}
+
+## Question 2 Diagram
+
+<div style="text-align:center; margin-top:20px;">
+
+  <img
+    src="/textbook/students/w26/cordelia-b/q2-diagram.png"
+    style="max-width:1000px; width: 100%; height:auto; margin-bottom:1em;"
+    alt="Question 2 Diagram"
+  />
+
+</div>
+
+# Question 3 Video
+### Discuss the relative strengths and weaknesses of magnetic, optical, and solid-state technology.
+
+{{YouTube:https://youtu.be/t7CIRZluQ3o}}
+
+## Question 3 Diagram
+
+<div style="text-align:center; margin-top:20px;">
+
+  <img
+    src="/textbook/students/w26/cordelia-b/q3-diagram.png"
+    style="max-width:1000px; width: 100%; height:auto; margin-bottom:1em;"
+    alt="Question 3 Diagram"
+  />
+
+</div>
+
+# Question 4 Video
+### Explain what device drivers are and why they are necessary.
+
+{{YouTube:https://youtu.be/8J5shbbXdmg}}
+
+## Question 4 Diagram
+
+<div style="text-align:center; margin-top:20px;">
+
+  <img
+    src="/textbook/students/w26/cordelia-b/q4-diagram.png"
+    style="max-width:1000px; width: 100%; height:auto; margin-bottom:1em;"
+    alt="Question 4 Diagram"
+  />
+
+</div>
+
+# Question 5 Video
+### Discuss file naming conventions and the role of the file extension.
+
+{{YouTube:https://youtu.be/PkJpQvNqnVQ}}
+
+## Question 5 Diagram
+
+<div style="text-align:center; margin-top:20px;">
+
+  <img
+    src="/textbook/students/w26/cordelia-b/q5-diagram.png"
+    style="max-width:1000px; width: 100%; height:auto; margin-bottom:1em;"
+    alt="Question 5 Diagram"
+  />
+
+</div>
+
+# Question 6 Video
+### Explain the difference between absolute and relative file paths.
+
+{{YouTube:https://youtu.be/Ld6zQJhQf-Q}}
+
+## Question 6 Diagram
+
+<div style="text-align:center; margin-top:20px;">
+
+  <img
+    src="/textbook/students/w26/cordelia-b/q6-diagram.png"
+    style="max-width:1000px; width: 100%; height:auto; margin-bottom:1em;"
+    alt="Question 6 Diagram"
+  />
+
+</div>
+
+# Question 7 Video
+### Explain what a web browser is and what it is for.
+
+{{YouTube:https://youtu.be/7EUltdw7hIY}}
+
+## Question 7 Diagram
+
+<div style="text-align:center; margin-top:20px;">
+
+  <img
+    src="/textbook/students/w26/cordelia-b/q7-diagram.png"
+    style="max-width:1000px; width: 100%; height:auto; margin-bottom:1em;"
+    alt="Question 7 Diagram"
+  />
+
+</div>
+
+# Question 8 Video
+### Explain what HTML is.
+
+{{YouTube:https://youtu.be/rgt3xJerSjs}}
+
+## Question 8 Diagram
+
+<div style="text-align:center; margin-top:20px;">
+
+  <img
+    src="/textbook/students/w26/cordelia-b/q8-diagram.png"
+    style="max-width:1000px; width: 100%; height:auto; margin-bottom:1em;"
+    alt="Question 8 Diagram"
+  />
+
+</div>
+
+# Question 9 Video
+### Explain how the internet differs from the World Wide Web.
+
+{{YouTube:https://youtu.be/T2ZOQrBhpLI}}
+
+## Question 9 Diagram
+
+<div style="text-align:center; margin-top:20px;">
+
+  <img
+    src="/textbook/students/w26/cordelia-b/q9-diagram.png"
+    style="max-width:1000px; width: 100%; height:auto; margin-bottom:1em;"
+    alt="Question 9 Diagram"
+  />
+
+</div>
+
+# Question 10 Video
+### Explain how a browser, webserver, and database interact.
+
+{{YouTube:https://youtu.be/kuMJ0YlJMY8}}
+
+## Question 10 Diagram
+
+<div style="text-align:center; margin-top:20px;">
+
+  <img
+    src="/textbook/students/w26/cordelia-b/q10-diagram.png"
+    style="max-width:1000px; width: 100%; height:auto; margin-bottom:1em;"
+    alt="Question 10 Diagram"
+  />
+
+</div>
+
+# Question 11 Video
+### Describe how an online intrusion might take place.
+
+{{YouTube:https://youtu.be/kjIIcumGulg}}
+
+## Question 11 Diagram
+
+<div style="text-align:center; margin-top:20px;">
+
+  <img
+    src="/textbook/students/w26/cordelia-b/q11-diagram.png"
+    style="max-width:1000px; width: 100%; height:auto; margin-bottom:1em;"
+    alt="Question 11 Diagram"
+  />
+
+</div>
